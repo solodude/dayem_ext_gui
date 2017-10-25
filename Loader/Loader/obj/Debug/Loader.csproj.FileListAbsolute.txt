@@ -1,0 +1,10 @@
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\bin\Debug\Loader.exe.config
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\bin\Debug\Loader.exe
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\bin\Debug\Loader.pdb
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.Form1.resources
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.Properties.Resources.resources
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.csproj.GenerateResource.Cache
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.exe
+C:\Users\Imanilus\Documents\EXT_HACKS\Loader\Loader\obj\Debug\Loader.pdb
